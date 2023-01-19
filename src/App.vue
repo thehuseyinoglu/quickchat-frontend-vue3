@@ -1,0 +1,3 @@
+<template>
+  QuickChat
+</template>
